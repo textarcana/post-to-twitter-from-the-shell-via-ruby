@@ -35,4 +35,4 @@ Nate Smith wrote a
 of this script.
 
 Nicolas Connault also maintains a Ruby script called [twit.rb](http://github.com/nicolasconnault/rubyscripts/blob/1fb45a93036035173110e9e44eb69a77ee39691c/twit.rb)
-but it's got **way** more features than this one ;-)
+but it's got *way* more features than this one ;-)
